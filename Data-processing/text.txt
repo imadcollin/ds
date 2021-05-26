@@ -1,0 +1,6 @@
+The data that is already present in a row and column format
+or which can be easily converted to rows and columns 
+so that later it can fit nicely into a database is known
+as structured data. Examples are CSV, TXT, XLS files etc.
+These files have a delimiter and either fixed or variable 
+width where the missing values are represented
