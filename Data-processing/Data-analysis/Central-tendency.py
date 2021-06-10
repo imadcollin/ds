@@ -9,9 +9,9 @@ data = {
 }
 df = pd.DataFrame(data)
 print(df)
-print('Media-----')
-print(df.median())
-print('Mean-----')
-print(df.mean())
-print('Mode-----')
-print(df.mode())
+print('Media-----', df.median())
+print('Mean-----', df.mean())
+print('Mode-----', df.mode())
+print('Deviasion-----', df.std())
+print('Skewness-----\n', df.skew())
+# %%
