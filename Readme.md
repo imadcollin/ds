@@ -1,4 +1,4 @@
-# DS - Walmrt
+# DS
 
 Exploring various techniques used in data science using the Python programming language.
 
